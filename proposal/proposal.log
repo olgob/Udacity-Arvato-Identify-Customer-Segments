@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.14)  8 JUL 2020 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.7.14)  8 JUL 2020 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -251,15 +251,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
 
-Underfull \hbox (badness 2384) in paragraph at lines 4--8
+Underfull \hbox (badness 2384) in paragraph at lines 4--7
 []\OT1/cmr/m/n/12 ``Apply ma-chine learn-ing tech-niques to pre-dict cus-tomers
  us-ing data pro-vided
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 4--8
-\OT1/cmr/m/n/12 by ar-vato fi-nan-cial so-lu-tions.'' []$\OT1/cmtt/m/n/12 =$[]\
-OT1/cmr/m/n/12 https://www.kaggle.com/c/udacity-arvato-identify-
+Underfull \hbox (badness 5578) in paragraph at lines 4--7
+\OT1/cmr/m/n/12 by ar-vato fi-nan-cial so-lu-tions.'' []$\OT1/cmtt/m/n/12 h$[]\
+OT1/cmr/m/n/12 ttps://www.kaggle.com/c/udacity-arvato-identify-
  []
 
 [3])
@@ -286,7 +286,7 @@ live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2019/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt12.pfb>
-Output written on proposal.pdf (4 pages, 64564 bytes).
+Output written on proposal.pdf (4 pages, 64619 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream

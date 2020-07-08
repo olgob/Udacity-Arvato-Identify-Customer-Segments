@@ -2,8 +2,7 @@
 
 \bibitem{kaggle_competiton}
 ``Apply machine learning techniques to predict customers using data provided by
-  arvato financial solutions.''
-  \url=https://www.kaggle.com/c/udacity-arvato-identify-customers/overview,
-  2019.
+  arvato financial solutions.'' \url
+  https://www.kaggle.com/c/udacity-arvato-identify-customers/overview, 2019.
 
 \end{thebibliography}
